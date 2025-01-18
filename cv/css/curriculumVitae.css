@@ -1,0 +1,18 @@
+.cf-profile-photo{
+    width: auto;
+    height: 150px;
+}
+
+.cf-section-name{
+    height: 150px;
+    background-image: url(../Images/230195890-abstract-wavy-background-black-and-white-lines-hand-drawn-illustration-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.cf-section-experience{
+    border-bottom: 1px solid rgb(52, 52, 54);
+}
+
